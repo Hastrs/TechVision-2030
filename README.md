@@ -5,7 +5,7 @@
 🔗 **Live Demo:** [TechVision 2030 Website](https://hastrs.github.io/TechVision-2030/)  
 
 ## 📸 Screenshot  
-![TechVision Screenshot](https://hastrs.github.io/TechVision-2030/TechVision-2030.webp)
+![TechVision Screenshot](https://hastrs.github.io/TechVision-2030/img/TechVision-2030.webp)
 
 ## 🚀 Technologies Used  
 - HTML  
